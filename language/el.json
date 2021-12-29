@@ -1,14 +1,14 @@
 {
   "semantics": [
     {
-      "label": "Media",
+      "label": "Μέσα",
       "fields": [
         {
-          "label": "Type",
-          "description": "Optional media to display above the question."
+          "label": "Τύπος",
+          "description": "Προαιρετικά μέσα που θα εμφανίζονται πάνω από την ερώτηση."
         },
         {
-          "label": "Disable image zooming"
+          "label": "Απενεργοποίηση ζουμ εικόνας"
         }
       ]
     },
